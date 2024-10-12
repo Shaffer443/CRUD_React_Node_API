@@ -1,0 +1,19 @@
+{
+  "name": "api_bd",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Teste de conexão usando o node como intermediário entre um BD e o FrontEnd.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.20.0",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "prisma": "^5.20.0"
+  }
+}
